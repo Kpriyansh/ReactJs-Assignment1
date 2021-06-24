@@ -1,0 +1,25 @@
+.maindiv{
+  text-align: center;
+  
+}
+.inputdata{
+  
+  display: flex;
+  justify-content: center;
+  
+}
+.textarea{
+  border-radius: 4px;
+}
+.textbtn{
+  background-color: rebeccapurple;
+  color: aliceblue;
+  text-align: center;
+  border-radius: 4px;
+  width: 80px;
+  cursor: pointer;
+}
+.textbtn:hover{
+  background-color: darkorchid;
+  transition: all  500ms;
+}
